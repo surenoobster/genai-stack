@@ -13,13 +13,13 @@ PIPELINE OF THIS
 for this problem statement 
 Build document search and chat on over 1000+ documents.
 my solution is something like 
+![Screenshot from 2024-06-15 17-52-45](https://github.com/surenoobster/genai-stack/assets/154669584/03539ba3-08c3-4f9b-8211-ed9f988bda12)
 
 it is directly based on similarity search 
 if the dataset is small then use chromadb dataset 
 if the dataset and volume of document is quite large then use Weaviatedb
 
 
-![Screenshot from 2024-06-15 17-47-22](https://github.com/surenoobster/genai-stack/assets/154669584/6710e0b5-8574-44e5-8bb4-9828abf7860d)
 
 
 
