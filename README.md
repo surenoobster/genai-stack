@@ -16,7 +16,11 @@ my solution is something like
 ![Screenshot from 2024-06-15 17-52-45](https://github.com/surenoobster/genai-stack/assets/154669584/03539ba3-08c3-4f9b-8211-ed9f988bda12)
 
 it is directly based on similarity search 
+
+
 if the dataset is small then use chromadb dataset 
+
+
 if the dataset and volume of document is quite large then use Weaviatedb
 
 
@@ -24,13 +28,17 @@ if the dataset and volume of document is quite large then use Weaviatedb
 
 
 
-
-I am solving all these problems 
+ 
 
 Pick any one of the following use cases:
-Build document search and chat on over 1000+ documents.
+
+
+Build document search and chat on over 1000+ documents.'
+
+
 Code search and chat on a Github repo
-Intelligent customer support chatbot using historic support queries, website chatbot and product documentation
+
+
 Sentiment analysis on a customer survey report: pick any industry and their corresponding survey results to build the most insightful report with relevant data points
 
 
@@ -39,8 +47,14 @@ Sentiment analysis on a customer survey report: pick any industry and their corr
 
 
 but due to OpenAI paid account and lack of computational issues 
+
+
 i was unable to complete my LLM 
+
+
 Huggingface , GPT4all models i used but due to RAM crash on colab and non GPU local PC it always crashed
+
+
 
 ![Screenshot from 2024-06-15 15-40-26](https://github.com/surenoobster/genai-stack/assets/154669584/87750945-ba0a-4162-9cab-ccf69f70b3f1)
 
