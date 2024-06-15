@@ -2,9 +2,10 @@
 Hi , Chirag chawla from IIT BHU this side , this is the assignment of solution given by @https://github.com/aiplanethub/genai-stack   
 
 
-![Screenshot from 2024-06-15 15-40-26](https://github.com/surenoobster/genai-stack/assets/154669584/d3dd7545-bcfe-49b9-bb0f-7e62a7b47234)
+![Screenshot from 2024-06-15 17-26-30](https://github.com/surenoobster/genai-stack/assets/154669584/8912249c-ddf5-4436-aa24-62e6a2fc05a5)
 
 
+ 
 PIPELINE OF THIS 
 
 
