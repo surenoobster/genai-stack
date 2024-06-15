@@ -2,6 +2,12 @@
 Hi , Chirag chawla from IIT BHU this side , this is the assignment of solution given by @https://github.com/aiplanethub/genai-stack   
 
 
+![Screenshot from 2024-06-15 15-40-26](https://github.com/surenoobster/genai-stack/assets/154669584/d3dd7545-bcfe-49b9-bb0f-7e62a7b47234)
+
+
+PIPELINE OF THIS 
+
+
 I am solving all these problems 
 
 Pick any one of the following use cases:
