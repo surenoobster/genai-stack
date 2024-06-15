@@ -11,11 +11,7 @@ Intelligent customer support chatbot using historic support queries, website cha
 Sentiment analysis on a customer survey report: pick any industry and their corresponding survey results to build the most insightful report with relevant data points
 
 
-
-
-[
-![Screenshot from 2024-06-15 15-41-13](https://github.com/surenoobster/genai-stack/assets/154669584/acf23310-f6c3-4d22-8062-367b8fd70ef9)
-](url)
+![Screenshot from 2024-06-15 13-20-27](https://github.com/surenoobster/genai-stack/assets/154669584/53520968-b432-4669-884d-1c99d8350f62)
 
 
 
