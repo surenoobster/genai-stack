@@ -4,7 +4,9 @@ Hi , Chirag chawla from IIT BHU this side , this is the assignment of solution g
 ![Screenshot from 2024-06-15 15-41-13](https://github.com/surenoobster/genai-stack/assets/154669584/435f07a4-bfe2-4d67-a716-65f1f6f03373)
 
 
+https://colab.research.google.com/drive/1syK3StQZ58Xbu2aJ-2fvnkCSbnXXAIfm?usp=sharing
 
+link of colab
  
 PIPELINE OF THIS 
 
