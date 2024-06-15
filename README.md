@@ -9,6 +9,22 @@ Hi , Chirag chawla from IIT BHU this side , this is the assignment of solution g
 PIPELINE OF THIS 
 
 
+
+for this problem statement 
+Build document search and chat on over 1000+ documents.
+my solution is something like 
+
+it is directly based on similarity search 
+if the dataset is small then use chromadb dataset 
+if the dataset and volume of document is quite large then use Weaviatedb
+
+
+![Screenshot from 2024-06-15 17-47-22](https://github.com/surenoobster/genai-stack/assets/154669584/6710e0b5-8574-44e5-8bb4-9828abf7860d)
+
+
+
+
+
 I am solving all these problems 
 
 Pick any one of the following use cases:
