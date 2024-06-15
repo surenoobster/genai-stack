@@ -1,8 +1,8 @@
 # genai-stack
 Hi , Chirag chawla from IIT BHU this side , this is the assignment of solution given by @https://github.com/aiplanethub/genai-stack   
 
+![Screenshot from 2024-06-15 15-41-13](https://github.com/surenoobster/genai-stack/assets/154669584/435f07a4-bfe2-4d67-a716-65f1f6f03373)
 
-![Screenshot from 2024-06-15 17-26-30](https://github.com/surenoobster/genai-stack/assets/154669584/8912249c-ddf5-4436-aa24-62e6a2fc05a5)
 
 
  
